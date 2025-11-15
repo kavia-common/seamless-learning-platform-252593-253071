@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/seamless-learning-platform-252593-253071/lms_frontend"
+}
